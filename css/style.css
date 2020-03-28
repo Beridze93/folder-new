@@ -5,6 +5,8 @@
 	background-position: center;
 	height: 900px;
 	width: 100%;
+	position: relative;
+
 }
 .header-flex{
 	display: flex;
@@ -153,7 +155,49 @@
 	width: 300px;
 }
 
+.fa-twitter{
+	font-size: 25px;
+	color: blue;
+	margin-left: 20px;
 
+}
+.fa-instagram{
+	color:red;
+	font-size: 25px;
+	margin-left: 20px;
+}
+.fa-google-plus-g{
+	color: yellow;
+	font-size: 25px;
+}
+
+.icone:hover{
+	color: aqua;
+
+}
+.icone1:hover{
+	color: blue;
+}
+.icone2:hover{
+	color: pink;
+}
+.icones{
+position: absolute;
+left: 0;
+bottom: 0;
+
+}
+.right-wraper{
+	display: flex; 
+}
+.burger-icone{
+	display: none;
+
+}
+
+.fa-bars{
+	color: yellow;
+}
 
 
 
