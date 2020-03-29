@@ -69,18 +69,18 @@
 
 
 
-
-
-
-
-
-
 @media(max-width: 320px){
 	.header-flex{
 		padding: 30px;
 	}
 	.navigation-ul{
 		margin-left: 10px;
+	}
+	.bg-title{
+		margin-top: 30px;
+	}
+	.section-bg{
+		height: 500px;
 	}
 }
 
