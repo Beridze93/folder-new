@@ -61,10 +61,23 @@
 	}
 }
 
-@media (max-width: 400px;){
+@media (max-width: 400px){
 	.header-flex{
 		padding: 50px;
 	}
+	.bg-text{
+		margin-top: 40px;
+	}
+	.section-bg{
+		height: 480px;
+	}
+	.bg-title h1 {
+    font-size: 30px;
+}
+	.bg-title{
+		margin-top: 20px;
+	}
+
 }
 
 
@@ -76,12 +89,12 @@
 	.navigation-ul{
 		margin-left: 10px;
 	}
-	.bg-title{
+	/*.bg-title{
 		margin-top: 30px;
 	}
 	.section-bg{
 		height: 500px;
-	}
+	}*/
 }
 
 @media(max-width: 768px){
